@@ -85,4 +85,4 @@ public class MessageEvent {
 *  ThreadMode.ASYNC ，单独的线程中调用，耗时操作用它。
 
 官网：https://github.com/greenrobot/EventBus
-上面代码Demo：
+
